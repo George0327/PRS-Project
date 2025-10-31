@@ -1,0 +1,58 @@
+# ---- Visual Studio general ----
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ---- Build output ----
+x64/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+*.log
+*.tlog
+*.pdb
+*.ipch
+*.ilk
+*.exe
+*.dll
+*.lib
+*.app
+*.manifest
+*.idb
+
+# ---- Generated files ----
+*.opensdf
+*.sdf
+*.cachefile
+*.db
+*.opendb
+*.iobj
+*.ipdb
+
+# ---- Batch files and temp ----
+*.bat
+*.tmp
+
+# ---- Image & video cache (optional) ----
+# Keep only sample assets you need
+Images/
+Videos/
+
+# ---- OS junk ----
+Thumbs.db
+Desktop.ini
+
+# ---- CMake / OpenCV build cache (if any) ----
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ---- Optional IDEs ----
+*.code-workspace
+.idea/
