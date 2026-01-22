@@ -43,6 +43,14 @@ Release/
 Images/
 Videos/
 
+# ---- Data & outputs ----
+Characters/
+DataSet/
+Plates/
+PreprocessedImages/
+TrainingData/
+TrainingData_BW/
+
 # ---- OS junk ----
 Thumbs.db
 Desktop.ini
