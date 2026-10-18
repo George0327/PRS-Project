@@ -57,7 +57,7 @@ TrainingData/ chars ──▶ preprocess_training_data.py (binarize to 32×32) �
 
 ## Build and run
 
-Requirements: Windows, Visual Studio 2022, OpenCV 4.9.0 (the course `OpenCVApplication-VS2022_OCV490_basic` template, whose headers are included under `OpenCV/`), and Python 3 with PyTorch for training.
+Requirements: Windows, Visual Studio 2022, OpenCV 4.9.0 (the course `OpenCVApplication-VS2022_OCV490_basic` template; its headers are included under `OpenCV/include`, but the `lib` and `dll` folders are not, so copy them from your OpenCV installation), and Python 3 with PyTorch for training.
 
 **Inference**
 
